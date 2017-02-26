@@ -1,5 +1,11 @@
 # CFA-Calculator-Terminal-Application
 
-First CFA challenge where we had to create a calculator in the terminal, which could add, subtract, or multiply any two numbers.
+First CFA challenge
 
-Bonus points for adding a special message if the total added up to the number "42".
+1: ask the user for the two numbers
+
+2: ask the user whether they want to add, subtract, or multiply
+
+3: return the result
+
+BONUS: If the answer is 42, tell the user the meaning of life
