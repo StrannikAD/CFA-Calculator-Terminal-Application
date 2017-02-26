@@ -1,5 +1,4 @@
 # CFA-Calculator-Terminal-Application
-First CFA Terminal Application challenge
 
 First CFA challenge where we had to create a calculator in the terminal, which could add, subtract, or multiply any two numbers.
 
